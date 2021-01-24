@@ -1,4 +1,5 @@
-# Blue Sky
+# Curriculum Vitae
+
 > My first project using HTML and CSS.
 
 ## Table of contents
