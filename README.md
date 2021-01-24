@@ -24,7 +24,7 @@ All you need is just a web browser and the internet connection.
 ## Knowledge
 * HTML structure and elements
 * Ordered and unordered lists
-* Basic knowledge of tables
+* Basic knowledge of tables and forms
 
 * Basic CSS elements
 * Internal and external CSS
