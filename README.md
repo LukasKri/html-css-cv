@@ -1,4 +1,4 @@
-# Curriculum Vitae
+# About me
 
 > My first project using HTML and CSS.
 
