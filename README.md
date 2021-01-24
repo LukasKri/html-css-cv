@@ -28,6 +28,7 @@ All you need is just a web browser and the internet connection.
 
 * Basic CSS elements
 * Internal and external CSS
+* Position property
 * Hierarchy
 
 ## Status
