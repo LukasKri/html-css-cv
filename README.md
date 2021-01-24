@@ -21,7 +21,7 @@ I've made a simple web page about my qualifications, achievements and skills.
 ## Setup
 All you need is just a web browser and the internet connection.
 
-## Knowledge
+## Gained knowledge
 * HTML structure and elements
 * Ordered and unordered lists
 * Basic knowledge of tables and forms
