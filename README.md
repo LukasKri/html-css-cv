@@ -12,7 +12,7 @@
 * [Contact](#contact)
 
 ## General info
-I've made a simple web page in 2020, but it looks like it was created in the 90s, oh well.
+I've made a simple web page about my qualifications, achievements and skills.
 
 ## Technologies
 * HTML5
