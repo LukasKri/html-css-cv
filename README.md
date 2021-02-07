@@ -1,12 +1,13 @@
-# About me
+# About
 
-> My first project using HTML and CSS.
+My first project using HTML and CSS.
 
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Knowledge](#knowledge)
+* [Screenshot](#screenshot)
 * [Status](#status)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
@@ -19,7 +20,7 @@ I've made a simple web page about my qualifications, achievements and skills.
 * CSS3
 
 ## Setup
-All you need is just a web browser and the internet connection.
+All you need is just a web browser and internet access.
 
 ## Gained knowledge
 * HTML structure and elements
@@ -30,6 +31,9 @@ All you need is just a web browser and the internet connection.
 * Internal and external CSS
 * Position property
 * Hierarchy
+
+## Screenshot
+
 
 ## Status
 Project is: _finished_.
