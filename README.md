@@ -6,7 +6,7 @@ My first project using HTML and CSS.
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Knowledge](#knowledge)
+* [Gained knowledge](#gained-knowledge)
 * [Screenshot](#screenshot)
 * [Status](#status)
 * [Inspiration](#inspiration)
