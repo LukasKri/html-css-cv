@@ -1,6 +1,6 @@
 # About
 
-My first project using HTML and CSS.
+Project using HTML and CSS.
 
 ## Table of contents
 * [General info](#general-info)
