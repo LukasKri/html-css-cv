@@ -12,6 +12,9 @@ Project using HTML and CSS.
 * [Inspiration](#inspiration)
 * [Contact](#contact)
 
+## Live demo
+https://lukaskri.github.io/html-css-cv/
+
 ## General info
 I've made a simple web page about my qualifications, achievements and skills.
 
